@@ -9,23 +9,23 @@
 
 ### 🗃️ Bibliotecas utilizadas 📚
 
-#### Carregadas na criação do projeto com o Phoenix:
+- #### Carregadas na criação do projeto com o Phoenix:
 
-- phoenix
-- phoenix_ecto
-- ecto_sql
-- postgrex
-- phoenix_live_dashboard
-- swoosh
-- telemetry_metrics
-- telemetry_poller
-- gettext
-- jason
-- plug_cowboy
+  - phoenix
+  - phoenix_ecto
+  - ecto_sql
+  - postgrex
+  - phoenix_live_dashboard
+  - swoosh
+  - telemetry_metrics
+  - telemetry_poller
+  - gettext
+  - jason
+  - plug_cowboy
 
-#### Que inserimos posteriormente:
+- #### Que inserimos posteriormente:
 
-- quantum : Biblioteca de agendamento de tarefas para o Elixir
+  - quantum : Biblioteca de agendamento de tarefas para o Elixir
 
 ## 💎 Utilizando o Elixir 🔮
 
