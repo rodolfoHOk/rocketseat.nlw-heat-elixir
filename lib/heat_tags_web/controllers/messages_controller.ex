@@ -8,8 +8,8 @@ defmodule HeatTagsWeb.MessagesController do
     params
     |> Create.call()
     |> handle_create(conn)
-    # IO.inspect(params)
-    # text(conn, "RECEBI A REQUISIÇÃO")
+    # IO.inspect(params) # corpo da requisição
+    # text(conn, "RECEBI A REQUISIÇÃO") # resposta da requisição
   end
 
   defp handle_create({:ok, %Message{} = message}, conn) do
