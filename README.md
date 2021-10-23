@@ -60,7 +60,7 @@
   - Neste módulo utilizamos o método async_stream do módulo de concorrência Task (no caso pegamos as mensagens recebidas do dia no banco de dados, criamos a concorrência que conta as palavras das mensagem, pega todos os retornos das concorrências e reduz somando todas as palavras contadas por cada uma das concorrências)
   - instalamos a biblioteca quantum que rodará este módulo com o agendamento de uma vez por dia.
 
-## Todos os projetos criados no evento:
+## 🚀 Todos os projetos criados no evento: 🚀
 
 ### 🔗 Link para o projeto do Back-End Node no Github 🗄️
 
